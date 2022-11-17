@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Something About Me:
 👋 Hi, I’m @B.Tech.student<br>👀 Interested in Software development,bugging &debugging<br>🌱 I’m currently learning Coding😊 in JAVA.<br>💞️ I’m looking to explore more 😃
 
 
@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Just For FUN!!!
-<img src="https://random-memer.herokuapp.com/" width="300px"/> <img src="https://random-memer.herokuapp.com/" width="200px"/>
+<img src="https://random-memer.herokuapp.com/" width="300px"/> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mysteriocoder&icon=0&color=0)](https://visitcount.itsvg.in)
