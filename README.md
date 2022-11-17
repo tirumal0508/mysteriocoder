@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @B.Tech.student<br>👀 I’m interested in Software development,bugging &debugging<br>🌱 I’m currently learning Coding😊 in JAVA.<br>💞️ I’m looking to explore more 😃
+👋 Hi, I’m @B.Tech.student<br>👀 Interested in Software development,bugging &debugging<br>🌱 I’m currently learning Coding😊 in JAVA.<br>💞️ I’m looking to explore more 😃
 
 
 # 💻 Tech Stack:
@@ -9,10 +9,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mysteriocoder&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mysteriocoder&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Just For FUN!!!
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
