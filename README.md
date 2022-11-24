@@ -12,8 +12,7 @@
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂😅
-<img src="https://random-memer.herokuapp.com/" width="250px"/>
+### ❤️❤️❤️
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mysteriocoder&icon=0&color=0)](https://visitcount.itsvg.in)
