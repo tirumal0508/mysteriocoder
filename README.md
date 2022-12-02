@@ -1,5 +1,5 @@
 # 💫 Something About Me:
-👋 Hi, I’m @B.Tech.student<br>👀 I’m interested in Software development,bugging &debugging<br>🌱 I’m currently learning Coding😊 in JAVA.<br>💞️ I’m looking to explore more 😃
+👋 Hi, I’m @B.Tech.student<br>👀 I’m interested in Software development,debugging<br>🌱 I’m currently learning Coding😊 in JAVA.<br>💞️ I’m looking to explore more 😃
 
 
 # 💻 Tech Stack:
