@@ -1,4 +1,4 @@
-# 💫 Something About Me:
+# 💫 Some things About Me:
 👋 Hi, I’m @B.Tech.student<br>👀 I’m interested in Softwares,Learning and Coding<br>🌱 I’m currently learning Coding😊 in JAVA.<br>💞️ I’m looking to learn more 😃
 
 
